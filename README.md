@@ -1,7 +1,7 @@
 Bioopti Data
 ============
 
-* Version 0.1.1
+* Version 1.0.0
 
 Contains reference data for the [Bioopti application](https://stash.csiro.au/users/col52j/repos/bioopti/browse).
 
